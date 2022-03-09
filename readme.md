@@ -69,6 +69,10 @@ iterations: 1,000,000
 Time taken: 0.002139899969100952 seconds with the approximation of 3.1415916535897743
 --------------------------------------------------------------
 ```
+
+# Conclusion
+The formula that is being use in this web app will be Francois Viete PI Approximation, as it has the lowest difference to the PI value and more efficient alogrithm.
+
 # Reference Link (Coding)
 1. http://ajennings.net/blog/a-million-digits-of-pi-in-9-lines-of-javascript.html
 2. https://www.codedrome.com/estimating-pi-in-javascript/ (recommended)
